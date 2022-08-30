@@ -10,5 +10,8 @@
     "packages": [
       "projects/*"
     ]
+  },
+  "dependencies": {
+    "@threebird/common": "*"
   }
 }

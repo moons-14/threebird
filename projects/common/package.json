@@ -1,0 +1,8 @@
+{
+  "name": "@threebird/common",
+  "private": true,
+  "types": "index.d.ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
