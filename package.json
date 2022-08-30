@@ -1,0 +1,14 @@
+{
+  "name": "threebird",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/moons-14/threebird.git",
+  "author": "moons14 <moons@moons14.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "projects/*"
+    ]
+  }
+}
