@@ -12,11 +12,18 @@
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
     "@ethersproject/abstract-signer": "^5.7.0",
+    "@firebase/auth": "^0.20.5",
+    "@firebase/functions": "^0.8.4",
     "@metamask/detect-provider": "^1.2.0",
     "@mui/material": "^5.10.3",
     "ethers": "^5.7.0",
+    "firebase": "^9.9.3",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0",
+    "recoil": "^0.7.5",
+    "recoil-persist": "^4.2.0",
+    "vite-tsconfig-paths": "^3.5.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
