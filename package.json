@@ -11,6 +11,10 @@
       "projects/*"
     ]
   },
+  "scripts": {
+    "fr:dev": "yarn workspace web-front dev",
+    "bc:dev": "yarn workspace backend run start:dev"
+  },
   "dependencies": {
     "@threebird/common": "*"
   }
