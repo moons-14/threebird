@@ -36,3 +36,5 @@ lerna-debug.log*
 
 # ENV
 /.env
+
+/threebird-web3-firebase-adminsdk-f6ths-c009113b3f.json
